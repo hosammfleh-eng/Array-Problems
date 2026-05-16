@@ -1,0 +1,21 @@
+{
+  "name": "array-problems",
+  "version": "1.0.0",
+  "description": "solve problems",
+  "main": "index.js",
+  "scripts": {
+    "start":"tsc && node ./dist/index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosammfleh-eng/Array-Problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosammfleh-eng/Array-Problems/issues"
+  },
+  "homepage": "https://github.com/hosammfleh-eng/Array-Problems#readme"
+}
